@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Lecture 01 — Topological Spaces and Bases",
+    "file": "lecture-01.pdf",
+    "tags": [
+      "topology",
+      "basis",
+      "subspace"
+    ]
+  },
+  {
+    "title": "Lecture 02 — Continuity and Homeomorphism",
+    "file": "lecture-02.pdf",
+    "tags": [
+      "continuous map",
+      "homeomorphism"
+    ]
+  },
+  {
+    "title": "Lecture 03 — Separation Axioms",
+    "file": "lecture-03.pdf",
+    "tags": [
+      "hausdorff",
+      "regular",
+      "normal",
+      "t2"
+    ]
+  },
+  {
+    "title": "Lecture 04 — Compactness",
+    "file": "lecture-04.pdf",
+    "tags": [
+      "compactness",
+      "tychonoff",
+      "finite subcover"
+    ]
+  },
+  {
+    "title": "Lecture 05 — Connectedness and Path Connectedness",
+    "file": "lecture-05.pdf",
+    "tags": [
+      "connected",
+      "path connected",
+      "component"
+    ]
+  }
+]

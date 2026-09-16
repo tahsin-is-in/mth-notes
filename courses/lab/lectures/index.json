@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Lab 01 — Getting Started with Python for Mathematics",
+    "file": "lecture-01.pdf",
+    "tags": [
+      "python",
+      "numpy",
+      "setup"
+    ]
+  },
+  {
+    "title": "Lab 02 — Root Finding and Interpolation",
+    "file": "lecture-02.pdf",
+    "tags": [
+      "bisection",
+      "newton",
+      "interpolation"
+    ]
+  },
+  {
+    "title": "Lab 03 — Matrices and Linear Systems",
+    "file": "lecture-03.pdf",
+    "tags": [
+      "matrix",
+      "linear system",
+      "numpy"
+    ]
+  },
+  {
+    "title": "Lab 04 — Plotting Solution Curves of ODEs",
+    "file": "lecture-04.pdf",
+    "tags": [
+      "ode",
+      "plotting",
+      "matplotlib"
+    ]
+  }
+]

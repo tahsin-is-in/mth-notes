@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Lecture 01 — Fourier Series",
+    "file": "lecture-01.pdf",
+    "tags": [
+      "fourier series",
+      "orthogonality",
+      "parseval"
+    ]
+  },
+  {
+    "title": "Lecture 02 — Fourier Transform",
+    "file": "lecture-02.pdf",
+    "tags": [
+      "fourier transform",
+      "convolution"
+    ]
+  },
+  {
+    "title": "Lecture 03 — Laplace Transform and Applications",
+    "file": "lecture-03.pdf",
+    "tags": [
+      "laplace transform",
+      "inverse",
+      "initial value"
+    ]
+  },
+  {
+    "title": "Lecture 04 — Sturm-Liouville Theory",
+    "file": "lecture-04.pdf",
+    "tags": [
+      "sturm-liouville",
+      "eigenfunction",
+      "expansion"
+    ]
+  },
+  {
+    "title": "Lecture 05 — Green's Functions and Boundary Value Problems",
+    "file": "lecture-05.pdf",
+    "tags": [
+      "green function",
+      "boundary value"
+    ]
+  }
+]

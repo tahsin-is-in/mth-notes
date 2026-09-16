@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Lecture 01 — Direct Methods for Linear Systems",
+    "file": "lecture-01.pdf",
+    "tags": [
+      "gauss elimination",
+      "lu factorization"
+    ]
+  },
+  {
+    "title": "Lecture 02 — Iterative Methods",
+    "file": "lecture-02.pdf",
+    "tags": [
+      "jacobi",
+      "gauss-seidel",
+      "convergence"
+    ]
+  },
+  {
+    "title": "Lecture 03 — Eigenvalue Computation",
+    "file": "lecture-03.pdf",
+    "tags": [
+      "power method",
+      "qr algorithm"
+    ]
+  },
+  {
+    "title": "Lecture 04 — Numerical Integration",
+    "file": "lecture-04.pdf",
+    "tags": [
+      "quadrature",
+      "simpson",
+      "gaussian quadrature"
+    ]
+  },
+  {
+    "title": "Lecture 05 — Numerical Solution of ODEs",
+    "file": "lecture-05.pdf",
+    "tags": [
+      "euler",
+      "runge-kutta",
+      "stability"
+    ]
+  }
+]

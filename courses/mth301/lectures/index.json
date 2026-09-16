@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Lecture 01 — Metric Spaces and Examples",
+    "file": "lecture-01.pdf",
+    "tags": [
+      "metric space",
+      "open ball",
+      "distance"
+    ]
+  },
+  {
+    "title": "Lecture 02 — Open and Closed Sets",
+    "file": "lecture-02.pdf",
+    "tags": [
+      "interior",
+      "closure",
+      "limit point"
+    ]
+  },
+  {
+    "title": "Lecture 03 — Sequences and Completeness",
+    "file": "lecture-03.pdf",
+    "tags": [
+      "cauchy sequence",
+      "complete",
+      "banach"
+    ]
+  },
+  {
+    "title": "Lecture 04 — Compactness in Metric Spaces",
+    "file": "lecture-04.pdf",
+    "tags": [
+      "compactness",
+      "heine-borel",
+      "totally bounded"
+    ]
+  },
+  {
+    "title": "Lecture 05 — Uniform Convergence of Function Sequences",
+    "file": "lecture-05.pdf",
+    "tags": [
+      "uniform convergence",
+      "weierstrass m-test"
+    ]
+  }
+]

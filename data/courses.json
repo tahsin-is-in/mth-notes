@@ -1,0 +1,112 @@
+{
+  "site": {
+    "title": "MTH Notes",
+    "subtitle": "University Mathematics — 3rd Year Notes",
+    "tagline": "Your organized Mathematics study library.",
+    "year": "3rd Year Mathematics"
+  },
+  "sections": [
+    {
+      "id": "lectures",
+      "name": "Lectures",
+      "icon": "\ud83d\udcd6",
+      "blurb": "Lecture notes and study materials"
+    },
+    {
+      "id": "questions",
+      "name": "Questions",
+      "icon": "\u2753",
+      "blurb": "Questions, problems and practice materials"
+    }
+  ],
+  "courses": [
+    {
+      "id": "mth301",
+      "code": "MTH 301",
+      "name": "Real Analysis II",
+      "description": "Metric spaces, compactness, connectedness and uniform convergence.",
+      "accent": "#2F5D8C",
+      "tags": ["metric space", "compactness", "convergence", "continuity"]
+    },
+    {
+      "id": "mth302",
+      "code": "MTH 302",
+      "name": "Complex Analysis",
+      "description": "Analytic functions, Cauchy theory, series and residues.",
+      "accent": "#2E6F6A",
+      "tags": ["cauchy", "residue", "analytic", "conformal"]
+    },
+    {
+      "id": "mth303",
+      "code": "MTH 303",
+      "name": "Ordinary Differential Equations II",
+      "description": "Series solutions, special functions, systems and stability.",
+      "accent": "#6B5490",
+      "tags": ["frobenius", "bessel", "legendre", "phase plane"]
+    },
+    {
+      "id": "mth304",
+      "code": "MTH 304",
+      "name": "Abstract Algebra",
+      "description": "Groups, rings, fields and their homomorphisms.",
+      "accent": "#8C4A52",
+      "tags": ["group", "ring", "field", "sylow", "ideal"]
+    },
+    {
+      "id": "mth305",
+      "code": "MTH 305",
+      "name": "Fundamentals of Topology",
+      "description": "Topological spaces, separation axioms, compactness and connectedness.",
+      "accent": "#3F6B45",
+      "tags": ["topology", "compactness", "hausdorff", "homeomorphism"]
+    },
+    {
+      "id": "mth306",
+      "code": "MTH 306",
+      "name": "Numerical Analysis II",
+      "description": "Numerical linear algebra, quadrature and numerical ODE methods.",
+      "accent": "#8A5A2B",
+      "tags": ["iteration", "quadrature", "runge-kutta", "error"]
+    },
+    {
+      "id": "mth307",
+      "code": "MTH 307",
+      "name": "Mathematical Methods",
+      "description": "Integral transforms, Fourier analysis and boundary value problems.",
+      "accent": "#2B6485",
+      "tags": ["fourier", "laplace transform", "sturm-liouville", "green"]
+    },
+    {
+      "id": "mth308",
+      "code": "MTH 308",
+      "name": "Optimization",
+      "description": "Linear programming, duality and nonlinear optimization.",
+      "accent": "#5B6B2E",
+      "tags": ["simplex", "duality", "convex", "kkt"]
+    },
+    {
+      "id": "mth309",
+      "code": "MTH 309",
+      "name": "Stochastic Calculus",
+      "description": "Brownian motion, Ito calculus and stochastic differential equations.",
+      "accent": "#4A5A93",
+      "tags": ["brownian", "ito", "martingale", "sde"]
+    },
+    {
+      "id": "mth310",
+      "code": "MTH 310",
+      "name": "Introduction to Actuarial Mathematics",
+      "description": "Interest theory, life tables, annuities and premium calculation.",
+      "accent": "#8A4E7A",
+      "tags": ["annuity", "life table", "premium", "interest"]
+    },
+    {
+      "id": "lab",
+      "code": "LAB",
+      "name": "Mathematics Lab III",
+      "description": "Computational practicals, worksheets and lab reports.",
+      "accent": "#44606B",
+      "tags": ["lab", "python", "matlab", "computation"]
+    }
+  ]
+}

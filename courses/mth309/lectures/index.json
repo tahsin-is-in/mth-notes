@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Lecture 01 — Probability Spaces and Conditional Expectation",
+    "file": "lecture-01.pdf",
+    "tags": [
+      "filtration",
+      "conditional expectation"
+    ]
+  },
+  {
+    "title": "Lecture 02 — Martingales in Discrete Time",
+    "file": "lecture-02.pdf",
+    "tags": [
+      "martingale",
+      "stopping time",
+      "optional sampling"
+    ]
+  },
+  {
+    "title": "Lecture 03 — Brownian Motion",
+    "file": "lecture-03.pdf",
+    "tags": [
+      "brownian motion",
+      "wiener process",
+      "quadratic variation"
+    ]
+  },
+  {
+    "title": "Lecture 04 — The Ito Integral and Ito's Lemma",
+    "file": "lecture-04.pdf",
+    "tags": [
+      "ito integral",
+      "ito lemma",
+      "stochastic integral"
+    ]
+  },
+  {
+    "title": "Lecture 05 — Stochastic Differential Equations",
+    "file": "lecture-05.pdf",
+    "tags": [
+      "sde",
+      "geometric brownian motion",
+      "black-scholes"
+    ]
+  }
+]

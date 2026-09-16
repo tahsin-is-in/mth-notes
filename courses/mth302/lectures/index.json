@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Lecture 01 — The Complex Plane and Analytic Functions",
+    "file": "lecture-01.pdf",
+    "tags": [
+      "analytic",
+      "holomorphic",
+      "cauchy-riemann"
+    ]
+  },
+  {
+    "title": "Lecture 02 — Cauchy-Goursat Theorem",
+    "file": "lecture-02.pdf",
+    "tags": [
+      "cauchy",
+      "contour integral",
+      "goursat"
+    ]
+  },
+  {
+    "title": "Lecture 03 — Cauchy Integral Formula",
+    "file": "lecture-03.pdf",
+    "tags": [
+      "cauchy",
+      "integral formula",
+      "liouville"
+    ]
+  },
+  {
+    "title": "Lecture 04 — Taylor and Laurent Series",
+    "file": "lecture-04.pdf",
+    "tags": [
+      "taylor",
+      "laurent",
+      "singularity"
+    ]
+  },
+  {
+    "title": "Lecture 05 — Residue Theorem and Applications",
+    "file": "lecture-05.pdf",
+    "tags": [
+      "residue",
+      "pole",
+      "real integral"
+    ]
+  }
+]

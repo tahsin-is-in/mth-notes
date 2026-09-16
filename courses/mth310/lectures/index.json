@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Lecture 01 — Theory of Interest",
+    "file": "lecture-01.pdf",
+    "tags": [
+      "compound interest",
+      "force of interest",
+      "annuity"
+    ]
+  },
+  {
+    "title": "Lecture 02 — Annuities Certain",
+    "file": "lecture-02.pdf",
+    "tags": [
+      "annuity",
+      "present value",
+      "perpetuity"
+    ]
+  },
+  {
+    "title": "Lecture 03 — Survival Models and Life Tables",
+    "file": "lecture-03.pdf",
+    "tags": [
+      "survival function",
+      "life table",
+      "mortality"
+    ]
+  },
+  {
+    "title": "Lecture 04 — Life Annuities",
+    "file": "lecture-04.pdf",
+    "tags": [
+      "life annuity",
+      "commutation function"
+    ]
+  },
+  {
+    "title": "Lecture 05 — Life Insurance and Net Premiums",
+    "file": "lecture-05.pdf",
+    "tags": [
+      "premium",
+      "benefit",
+      "equivalence principle"
+    ]
+  }
+]

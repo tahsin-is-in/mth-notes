@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Lecture 01 — Groups, Subgroups and Cosets",
+    "file": "lecture-01.pdf",
+    "tags": [
+      "group",
+      "coset",
+      "lagrange"
+    ]
+  },
+  {
+    "title": "Lecture 02 — Normal Subgroups and Quotient Groups",
+    "file": "lecture-02.pdf",
+    "tags": [
+      "normal subgroup",
+      "quotient",
+      "homomorphism"
+    ]
+  },
+  {
+    "title": "Lecture 03 — Sylow Theorems",
+    "file": "lecture-03.pdf",
+    "tags": [
+      "sylow",
+      "p-group",
+      "conjugacy"
+    ]
+  },
+  {
+    "title": "Lecture 04 — Rings and Ideals",
+    "file": "lecture-04.pdf",
+    "tags": [
+      "ring",
+      "ideal",
+      "quotient ring"
+    ]
+  },
+  {
+    "title": "Lecture 05 — Integral Domains and Fields",
+    "file": "lecture-05.pdf",
+    "tags": [
+      "integral domain",
+      "field",
+      "characteristic"
+    ]
+  }
+]

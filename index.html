@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="system">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MTH Notes — University Mathematics</title>
+<meta name="description" content="MTH Notes — an organized library of 3rd year university Mathematics lecture notes and question sets.">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="css/style.css">
+<script>
+  // Applied before paint so the page never flashes the wrong theme.
+  (function () {
+    var t = localStorage.getItem('mthnotes-theme') || 'system';
+    document.documentElement.setAttribute('data-theme', t);
+  })();
+</script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="#/">
+      <span class="brand-mark" aria-hidden="true">∑</span>
+      <span class="brand-text">
+        <span class="brand-name">MTH Notes</span>
+        <span class="brand-sub">University Mathematics — 3rd Year Notes</span>
+      </span>
+    </a>
+
+    <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="site-nav">
+      <span class="nav-toggle-bars" aria-hidden="true"><span></span><span></span><span></span></span>
+      <span class="sr-only">Menu</span>
+    </button>
+
+    <nav class="site-nav" id="site-nav" aria-label="Main">
+      <ul>
+        <li><a href="#/" data-nav="home">Home</a></li>
+        <li><a href="#/courses" data-nav="courses">Courses</a></li>
+        <li><a href="#/search" data-nav="search">Search</a></li>
+        <li><a href="#/about" data-nav="about">About</a></li>
+      </ul>
+      <div class="theme-switch" role="group" aria-label="Colour theme">
+        <button type="button" data-theme-value="light">Light</button>
+        <button type="button" data-theme-value="dark">Dark</button>
+        <button type="button" data-theme-value="system">System</button>
+      </div>
+    </nav>
+  </div>
+</header>
+
+<main id="main" tabindex="-1">
+  <div class="wrap" id="app">
+    <p class="loading">Loading library…</p>
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap">
+    <p>MTH Notes — maintained in a GitHub repository, served by GitHub Pages.</p>
+  </div>
+</footer>
+
+<script src="js/search.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

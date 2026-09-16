@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Lecture 01 — Series Solutions about Ordinary Points",
+    "file": "lecture-01.pdf",
+    "tags": [
+      "power series",
+      "ordinary point"
+    ]
+  },
+  {
+    "title": "Lecture 02 — Frobenius Method",
+    "file": "lecture-02.pdf",
+    "tags": [
+      "frobenius",
+      "regular singular point",
+      "indicial equation"
+    ]
+  },
+  {
+    "title": "Lecture 03 — Legendre Equation and Polynomials",
+    "file": "lecture-03.pdf",
+    "tags": [
+      "legendre",
+      "rodrigues",
+      "orthogonality"
+    ]
+  },
+  {
+    "title": "Lecture 04 — Bessel Functions",
+    "file": "lecture-04.pdf",
+    "tags": [
+      "bessel",
+      "gamma function",
+      "recurrence"
+    ]
+  },
+  {
+    "title": "Lecture 05 — Systems and Phase Plane Analysis",
+    "file": "lecture-05.pdf",
+    "tags": [
+      "phase plane",
+      "stability",
+      "eigenvalue"
+    ]
+  }
+]

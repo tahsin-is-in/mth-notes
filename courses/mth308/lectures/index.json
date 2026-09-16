@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Lecture 01 — Formulating Optimization Problems",
+    "file": "lecture-01.pdf",
+    "tags": [
+      "objective",
+      "constraint",
+      "feasible region"
+    ]
+  },
+  {
+    "title": "Lecture 02 — Simplex Method",
+    "file": "lecture-02.pdf",
+    "tags": [
+      "simplex",
+      "pivot",
+      "basic feasible solution"
+    ]
+  },
+  {
+    "title": "Lecture 03 — Duality and Sensitivity Analysis",
+    "file": "lecture-03.pdf",
+    "tags": [
+      "duality",
+      "shadow price",
+      "sensitivity"
+    ]
+  },
+  {
+    "title": "Lecture 04 — Transportation and Assignment Problems",
+    "file": "lecture-04.pdf",
+    "tags": [
+      "transportation",
+      "assignment",
+      "hungarian"
+    ]
+  },
+  {
+    "title": "Lecture 05 — Convexity and KKT Conditions",
+    "file": "lecture-05.pdf",
+    "tags": [
+      "convex",
+      "kkt",
+      "lagrange multiplier"
+    ]
+  }
+]
